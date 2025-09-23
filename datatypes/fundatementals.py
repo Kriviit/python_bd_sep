@@ -5,7 +5,7 @@ a=10.4
 print(a,type(a))#function
 a="10"
 #know datatype
-print(a,type(a))#function
+print(a,type(a))#function   
 a=True
 #know datatype
 print(a,type(a))#function
